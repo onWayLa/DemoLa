@@ -22,4 +22,10 @@
   NSLog(@"liuanhai");
 }
 
+- (void)viewWillDisappear:(BOOL)animated
+{
+
+    NSLog(@"886");
+}
+
 @end
